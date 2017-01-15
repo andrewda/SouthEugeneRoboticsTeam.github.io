@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Your Filename
 ---
 ## A New Post
